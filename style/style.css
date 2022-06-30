@@ -1,0 +1,79 @@
+.eline__business{
+    width: 100px;
+    height: 3px;
+    background-color: black;
+}
+.eline__business2{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 3px;
+    align-items: center;
+    margin-left: 90px;
+    background-color: black;
+}
+.eline__business3{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 3px;
+    align-items: center;
+  
+    background-color: black;
+}
+.our__item{ 
+    padding-top: 30px;
+    text-align: center;
+}
+.icon__items i{
+    font-size: 42px;
+}
+.contact__items i{
+    font-size: 42px;
+    color:     #3ec1d5 ;
+}
+.icon__items:hover{
+    color:     #3ec1d5 ;
+    cursor: grab;
+}
+.business__btn{
+    background-color: #3ec1d5;
+    border:none;
+    color: white;
+    margin-top: 30px;
+    padding: 8px 25px;
+    border-radius: 10px;
+}
+.business__btn:hover{
+    color: #3ec1d5;
+   
+   background-color: white;
+   
+}
+.group__intro{
+    text-align: center;
+    padding: 10px;
+}
+.footer__intro{
+    text-align: center;
+
+    
+}
+.shadow__item{
+    background-color: rgb(26, 25, 25);
+    width: 100%;
+    height: 100%;
+    opacity: 75%;
+}
+footer {
+  background-color: #f9f9f9;
+}
+footer p{
+    color:  #777777;
+    
+}
+.footer__contact h6{
+   font-size: 19px;
+    color: #3ec1d5; 
+    font-weight: bolder;
+}
